@@ -1,4 +1,4 @@
-//Dia da semana correspondente a um número inteiro, de 1 a 7, lido, utilizando array.
+package questao05;//Dia da semana correspondente a um número inteiro, de 1 a 7, lido, utilizando array.
 
 import java.util.Scanner;
 

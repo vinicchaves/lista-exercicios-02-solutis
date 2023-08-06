@@ -1,3 +1,5 @@
+package questao01;
+
 class teste {
     public static void main( String args[] ){
         int i = 5;

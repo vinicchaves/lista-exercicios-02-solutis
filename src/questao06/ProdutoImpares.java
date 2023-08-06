@@ -1,3 +1,5 @@
+package questao06;
+
 public class ProdutoImpares {
     public static void main(String[] args) {
         int imparInt = 1;

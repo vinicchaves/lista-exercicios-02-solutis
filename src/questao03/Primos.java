@@ -1,4 +1,4 @@
-//Leitura de um número inteiro e impressão dos números primos menores que o mesmo
+package questao03;//Leitura de um número inteiro e impressão dos números primos menores que o mesmo
 
 import java.util.Scanner;
 

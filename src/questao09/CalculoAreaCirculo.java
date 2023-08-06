@@ -1,4 +1,4 @@
-//Calculo da área de um círculo através do raio
+package questao09;//Calculo da área de um círculo através do raio
 
 import java.util.Scanner;
 

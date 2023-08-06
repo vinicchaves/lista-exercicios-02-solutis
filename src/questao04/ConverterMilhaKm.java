@@ -1,4 +1,4 @@
-//Conversor de milha para quilômetro
+package questao04;//Conversor de milha para quilômetro
 
 import java.util.Scanner;
 

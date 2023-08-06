@@ -1,4 +1,4 @@
-//Programa que recebe 2 valores retornando o maior entre eles.
+package questao02;//Programa que recebe 2 valores retornando o maior entre eles.
 import java.util.Scanner;
 
 public class MaiorValor {

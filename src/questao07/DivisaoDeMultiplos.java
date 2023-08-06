@@ -1,3 +1,5 @@
+package questao07;
+
 //Resultado da divisão por 2 de todos os múltiplos de 3 entre 1 e 100
 public class DivisaoDeMultiplos
 {

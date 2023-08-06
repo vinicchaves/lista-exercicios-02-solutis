@@ -1,4 +1,4 @@
-//Verificação de Palíndromo
+package questao08;//Verificação de Palíndromo
 
 import java.util.Scanner;
 
