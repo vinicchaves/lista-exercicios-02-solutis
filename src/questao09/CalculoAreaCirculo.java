@@ -7,7 +7,7 @@ public class CalculoAreaCirculo {
         float r;
         double areaNormal;
         double areaMath;
-        double pi = 3.1459;
+        final double PI = 3.1459;
 
 
         Scanner leitura = new Scanner(System.in);
@@ -16,7 +16,7 @@ public class CalculoAreaCirculo {
         r = leitura.nextFloat();
 
 // Cálculo da área
-        areaNormal = pi * (r * r);
+        areaNormal = PI * (r * r);
 
 // Cálculo da área utilizando Math
         areaMath = Math.PI * (Math.pow(r,2));
