@@ -8,3 +8,5 @@ class teste {
         System.out.println( "i + j = " + j + i );
     }
 }
+
+//Ouput : 105
